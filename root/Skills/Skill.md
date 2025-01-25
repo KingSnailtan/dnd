@@ -1,0 +1,6 @@
+---
+aliases:
+  - Alchemie
+  - Aufmerksamkeit
+  - Auftreten
+---
